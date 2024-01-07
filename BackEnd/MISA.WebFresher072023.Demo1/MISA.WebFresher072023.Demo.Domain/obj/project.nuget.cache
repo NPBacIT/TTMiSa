@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMmMIq224O+0qjxjVNX4KD8YBwJiubZWnK5NT6/0/2rvCtnoqZ/fhY6z6bPRQmLZVVUsq9eSxT6XMQ/iUBVH/g==",
+  "success": true,
+  "projectFilePath": "D:\\Web\\Misa2023\\CSharp\\MISA.WebFresher072023.Demo1\\MISA.WebFresher072023.Demo.Domain\\MISA.WebFresher072023.Demo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\nsubstitute.analyzers.csharp\\1.0.16\\nsubstitute.analyzers.csharp.1.0.16.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

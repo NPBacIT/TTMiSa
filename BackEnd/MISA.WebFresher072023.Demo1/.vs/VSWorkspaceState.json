@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MISA.WebFresher072023.Demo",
+    "\\MISA.WebFresher072023.Demo.Application",
+    "\\MISA.WebFresher072023.Demo.Application\\Service",
+    "\\MISA.WebFresher072023.Demo.Application\\Service\\Base",
+    "\\MISA.WebFresher072023.Demo.Domain",
+    "\\MISA.WebFresher072023.Demo.Domain\\Entity",
+    "\\MISA.WebFresher072023.Demo.Domain\\Entity\\Base",
+    "\\MISA.WebFresher072023.Demo.Domain\\Enum",
+    "\\MISA.WebFresher072023.Demo\\Controllers",
+    "\\MISA.WebFresher072023.Demo\\Controllers\\Base"
+  ],
+  "SelectedNode": "\\MISA.WebFresher072023.Demo.Domain\\Entity\\Employee.cs",
+  "PreviewInSolutionExplorer": false
+}
